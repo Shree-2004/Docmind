@@ -36,13 +36,13 @@ Personal-Knowledge-Copilot/
 
 ### 1️⃣ Clone the repo
 
-git clone https://github.com/SpandanNagale/Personal-Knowledge-Assistant
-cd personal-knowledge-copilot
+- git clone https://github.com/SpandanNagale/Personal-Knowledge-Assistant
+- cd personal-knowledge-copilot
 
 ### 2️⃣ Create & activate a virtual environment
-python -m venv myenv
-source myenv/bin/activate   # Mac/Linux
-myenv\Scripts\activate      # Windows
+- python -m venv myenv
+- source myenv/bin/activate   # Mac/Linux
+- myenv\Scripts\activate      # Windows
 
 
 ### 3️⃣ Install dependencies
