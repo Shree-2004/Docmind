@@ -36,7 +36,7 @@ Personal-Knowledge-Copilot/
 
 ### 1️⃣ Clone the repo
 
-git clone https://github.com/yourusername/personal-knowledge-copilot.git
+git clone https://github.com/SpandanNagale/Personal-Knowledge-Assistant
 cd personal-knowledge-copilot
 
 ### 2️⃣ Create & activate a virtual environment
