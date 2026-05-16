@@ -1,19 +1,24 @@
-arxiv
-langchain
-langchain_core
-langchain_community
-langchain_groq
-streamlit
-pandas
-tqdm
-sentence-transformers
-faiss-cpu
-numpy
-groq
-dotenv
-langchain_ollama
-ollama
-pymupdf
-python-docx
-python-pptx
-pypdf
+# Core
+streamlit>=1.35.0
+langchain>=0.2.0
+langchain-community>=0.2.0
+
+# Document loaders
+pypdf>=4.0.0
+docx2txt>=0.8
+python-pptx>=0.6.23
+unstructured>=0.14.0
+
+# Embeddings & vector store
+sentence-transformers>=3.0.0
+faiss-cpu>=1.8.0
+
+# Hybrid search
+rank-bm25>=0.2.2
+
+# LLM
+ollama>=0.2.0
+requests>=2.31.0
+
+# Utilities
+numpy>=1.26.0

@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+env/
+myenv/
+.venv/
+
+# Cache & indexes (auto-generated at runtime)
+.cache/
+
+# Uploaded/test documents (large binaries)
+uploaded.pdf
+*.pdf
+*.docx
+*.pptx
+
+# Evaluation dataset (optional, user-provided)
+# evaluation_dataset.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
